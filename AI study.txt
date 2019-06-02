@@ -8,4 +8,6 @@ http://web.archive.org/web/20190121225453/https://computerworld.com.br/2019/01/1
 
 http://web.archive.org/web/20190121225534/https://computerworld.com.br/2019/01/11/ate-2021-assistentes-virtuais-digitais-serao-usados-por-25-das-empresas/
 
+http://exameinformatica.sapo.pt/noticias/mercados/2019-01-20-Microsoft-nao-ve-Cortana-como-rival-do-Alexa-ou-do-Google-Assistant
+
 https://github.com/search?l=JavaScript&q=deep+learning&type=Repositories
