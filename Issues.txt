@@ -2,6 +2,7 @@ Issue list
 New issue
 Title
 Description
+Chckbxs
 Signers
 Labels
 Milestones
