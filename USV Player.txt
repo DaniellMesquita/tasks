@@ -1,2 +1,3 @@
 C:\Users\Notebook Positivo\Desktop\New folder (7)\1.1\Apps\Visgoe\USV\PoC-Player
 C:\Users\Notebook Positivo\Desktop\New folder (7)\1.1\Apps\Visgoe\USV\USV-Format\0.1
+C:\Program Files (x86)\ElectronForC2\resources\app\USV Player
