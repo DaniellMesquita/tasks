@@ -2,6 +2,8 @@ Issue list
 New issue
 Title
 Description
+Attach images
+Attach files
 Chckbxs
 Signers
 Ask for signee
