@@ -1,3 +1,7 @@
 https://itnext.io/build-a-simple-ethereum-interplanetary-file-system-ipfs-react-js-dapp-23ff4914ce4e
 
 http://web.archive.org/web/20190121024256/https://www.coindesk.com/decentralized-cryptokitties-ethereum
+
+https://medium.com/blockchannel/how-to-save-your-ethereum-dapp-users-from-paying-gas-for-transactions-cfc665891ab4
+
+https://medium.freecodecamp.org/hands-on-get-started-with-infura-and-ipfs-on-ethereum-b63635142af0?gi=f367118c16d6
