@@ -1,0 +1,9 @@
+https://www.diolinux.com.br/2019/02/greenwithenvy-uma-nova-forma-de-voce-gerenciar-gpu-nvidia.html
+
+https://linuxconfig.org/how-to-install-the-latest-amd-radeon-drivers-on-ubuntu-18-04-bionic-beaver-linux
+
+Asking
+* Tweak AMD to perform faster
+* Tweak Nvidia to perform faster
+* Tweak AMD CPU to perform faster
+* Tweak Intel CPU to perform faster
