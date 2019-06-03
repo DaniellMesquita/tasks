@@ -1,0 +1,10 @@
+https://github.com/graphprotocol/graph-node.git
+
+https://github.com/IntelFsp/FSP.git
+
+https://github.com/nana-4/materia-theme.git
+gnome-themes-extra
+gtk2-engines-murrine
+bc
+
+git.exe clone --progress -v "https://review.coreboot.org/coreboot.git" "C:\Users\Notebook Positivo\Desktop\coreboot"

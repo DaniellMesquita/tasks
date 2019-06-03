@@ -1,0 +1,8 @@
+https://beaker-app-stdlib.hashbase.io/
+https://pauls-blog-module.hashbase.io/
+https://testify.hashbase.io/
+https://citizen.hashbase.io/
+https://workshop-frontend-tmp-upload.hashbase.io/
+https://portal-pfrazee.hashbase.io/
+https://wysiwywiki-pfrazee.hashbase.io/
+https://svgs-pfrazee.hashbase.io/
