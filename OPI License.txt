@@ -1,8 +1,0 @@
-http://web.archive.org/web/20190508114027/https://unlicense.org/
-http://www.fsfla.org/svn/fsfla/software/linux-libre/scripts/deblob-5.1
-http://web.archive.org/web/20190513084146/https://en.wikipedia.org/wiki/Contributor_License_Agreement
-http://web.archive.org/web/20190502182919/http://www.gnu.org/prep/maintain/maintain.html#Legally-Significant
-http://web.archive.org/web/20190528040012/http://harmonyagreements.org/
-- Keep waiver and contributor's signs
-- Credit team lead
-(c) 2000 Led Developer and contributors.

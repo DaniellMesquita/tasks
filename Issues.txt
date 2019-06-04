@@ -1,4 +1,6 @@
-JSON formating at description
+Message about empty title
+
+Edit issue
 
 Labels
 
@@ -14,5 +16,3 @@ Attach images
 Attach files
 Chckbxs
 Ask for signee
-
-Edit
