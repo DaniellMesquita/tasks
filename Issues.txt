@@ -1,11 +1,4 @@
-New issue
-
-C:\Users\Notebook Positivo\Desktop\Linx\peeper-user-daniell-mesquita\.issues
-
-Title
-Description
-
-Post issue
+JSON formating at description
 
 Labels
 
@@ -21,3 +14,5 @@ Attach images
 Attach files
 Chckbxs
 Ask for signee
+
+Edit
