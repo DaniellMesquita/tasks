@@ -1,0 +1,7 @@
+does it downloads all versioned data while looking at versions when downloading a dat?
+
+instead of creating new dat, load it from folder
+
+if json haves a comma without following items, dat keeps site as "Untitled"
+
+when clicking on version:preview and there are unpublished updates for dat.json, it shows the site isn't on disk
