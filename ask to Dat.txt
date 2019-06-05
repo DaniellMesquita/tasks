@@ -5,3 +5,42 @@ instead of creating new dat, load it from folder
 if json haves a comma without following items, dat keeps site as "Untitled"
 
 when clicking on version:preview and there are unpublished updates for dat.json, it shows the site isn't on disk
+
+on versioning, show all heavy files
+.mp4
+.mp3
+.ogg
+.flac.png
+.jpg
+.bmp.docx.pptx.db.sql.accdb.pub.rar.zip.tar.gz.7z.xlsx
+*.cs     diff=csharp
+*.sln    merge=union
+*.csproj merge=union
+*.vbproj merge=union
+*.fsproj merge=union
+*.dbproj merge=union
+# Standard to msysgit
+*.doc	 diff=astextplain
+*.DOC	 diff=astextplain
+*.docx filter=lfs diff=lfs merge=lfs -text
+*.DOCX diff=astextplain
+*.dot  diff=astextplain
+*.DOT  diff=astextplain
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.PDF	 diff=astextplain
+*.rtf	 diff=astextplain
+*.RTF	 diff=astextplain
+*.pptx filter=lfs diff=lfs merge=lfs -text
+*.pptm filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.rar filter=lfs diff=lfs merge=lfs -text
+*.7z filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.3gp filter=lfs diff=lfs merge=lfs -text
+*.avi filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
+*.mkv filter=lfs diff=lfs merge=lfs -text
+*.webm filter=lfs diff=lfs merge=lfs -text
+*.capx filter=lfs diff=lfs merge=lfs -text
+*.usv filter=lfs diff=lfs merge=lfs -text
+ask to version a referring, but make them optional files
