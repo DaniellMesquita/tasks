@@ -1,0 +1,91 @@
+----- 1. Creating tree folder above root -----
+
+Create /1 folder
+If folder exists, Chmod permissions on 1/ folder; if no, wait some seconds
+write a temp file on 1/ folder; if can't, wait some seconds; if file exists, rmv it and nxt stp
+
+----- 2. Manage password -----
+
+set/chng Pss | Offer NFC/QR and pssgen (remind ltr opt)
+
+----- 3. Creating sys folder -----
+
+Create /1/Floflis folder, xtrct
+When xtrct is done, Chmod permissions on 1/Floflis
+
+----- 4. Creating settings folder -----
+
+Create /1/config folder
+Store setup steps
+
+----- 5. Setting Open Badges -----
+
+Create /1/Badges folder
+badge for svng, both if NFC or QR & badge for pneer since 06
+file with claimed badges, send it to Floflis (and store its date), tell when badges are available for download
+
+----- 6. Installing apps -----
+
+Create /1/Apps folder
+xtrct apps
+
+Create /1/AppsOld folder
+xtrct old apps
+
+----- 7. Creating folders for games and HTML5 files -----
+
+Create /1/Games folder
+
+Create /1/html5 folder
+xtrct .html5 files
+
+----- 1. Set device -----
+
+Get Device name, opt chng (tell abt Blth)
+
+----- 2. Set user -----
+
+Get Username (store it)
+Set dun username based on that
+Set Fullname (earn achiev)
+
+Set photo (default folder, choose folder, URL) - achiev for default photo or badge for both folder/URL photo
+- pin photo on dat/ipfs
+
+Tell about nxt stps, but option to remember on next boot.
+
+set user bio
+
+set favorite color
+
+set region
+
+set addresses (homes, work, minetest, decentraland, others)
+
+optional fields: phone, email
+
+Create .people file
+
+Create /1/Contacts folder, xtrct
+
+Create /1/Favorites folder, xtrct
+
+Tell about nxt stps, but option to remember on next boot.
+
+----- 3. Set Web -----
+
+setting IPFS (store its ID on .ppl)
+
+symlink user/Sites
+
+----- 4. Set Internet -----
+
+setting CJDNS (store its data on .ppl)
+
+setting Yggdrasil (store its data on .ppl)
+
+----- 5. Set bc -----
+
+store crypto data on .ppl in bc wizard
+
+profile display: username with link to folder and dun, photo with lnk to dat/ipfs

@@ -1,3 +1,2 @@
-glob. electron
-shared modules
 run C2 apps
+shared modules

@@ -1,0 +1,67 @@
+/media/floflis/Windows 7/Users/Notebook Positivo/Desktop/Linx/Windows
+/home/floflis/Downloads
+/1/AppsOld/electrum-nmc
+/1/Apps/aragonOS
+/1/Apps/aragon-cli
+/media/floflis/Windows 7/Users/Notebook Positivo/Desktop/Git/061
+/media/floflis/Windows 7/Users/Notebook Positivo/Desktop/FlCn/tasks
+
+https://github.com/sindresorhus/fullname/ https://unix.stackexchange.com/questions/149665/change-user-info-on-the-command-line
+
+anbox
+
+https://git.duniter.org/websites/website_en
+
+tts
+stt
+
+cd /1/Apps/qrl-wallet
+npm install
+npm run dev
+npm run test
+npm run electron
+https://github.com/jackalyst/qrl-docker/blob/master/Dockerfile ?
+
+
+cd /1/Apps/aragonOS
+npm install
+npm test
+npm run lint
+
+
+cd /1/AppsOld/electrum-nmc
+python3 -m pip install .[fast]
+
+apt-get update
+apt-get install i2p i2p-keyring
+
+gdevelop icon
+
+install electron-builder
+cd /1/Apps/noty
+npm run compile && electron-builder --linux
+
+openbazaar
+
+https://billymeinke.wordpress.com/2012/01/17/really-fun-and-free-educational-software-tux4kids/
+
+voxel 3d
+
+onlyoffice?
+
+https://github.com/namecoin/namecoin-core
+
+https://www.google.com/search?q=Bitcoin+blockchain+size+with+segwit&oq=Bitcoin+blockchain+size+with+segwit&aqs=chrome..69i57.10909j0j7&sourceid=chrome&ie=UTF-8
+
+dat://beautifulwebtype.com/
+dat://dotgrid-neauoire.hashbase.io/
+
+https://www.w3.org/TR/SVGTiny12/i18n.html
+
+offline json/js/html/css lint
+
+public domain relaxing music
+white sounds
+
+lan:
+20, 15, 18 = 53

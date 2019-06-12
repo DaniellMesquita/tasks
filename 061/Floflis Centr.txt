@@ -1,0 +1,3 @@
+packaged electron app
+
+add to explore menu
