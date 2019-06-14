@@ -26,3 +26,21 @@ https://askubuntu.com/questions/437555/creating-wine-shortcuts
 https://unix.stackexchange.com/questions/66555/why-are-my-application-desktop-files-not-showing-up-in-linux-application-menu
 
 http://web.archive.org/web/20190506162015/https://www.tecmint.com/move-home-directory-to-new-partition-disk-in-linux/
+
+https://blog.linuxmint.com/?p=3525
+https://mintguide.org/system/60-the-acceleration-of-linux-mint-and-similar.html
+https://www.omgubuntu.co.uk/2014/07/5-things-installing-cinnamon-ubuntu
+https://www.osradar.com/speed-up-cinnamon/
+https://itsfoss.com/speed-up-ubuntu-1310/
+https://easylinuxtipsproject.blogspot.com/p/first-mint-cinnamon.html
+https://betanews.com/2018/03/18/mint-linux-slow-fast/
+http://www.akitaonrails.com/2017/01/17/optimizing-linux-for-slow-computers
+https://www.addictivetips.com/ubuntu-linux-tips/speed-up-the-cinnamon-desktop/
+
+https://www.google.com/search?q=linux+only+specific+program+access+folder&oq=linux+only+specific+program+access+folder&aqs=chrome..69i57.7670j0j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/Floflis/Floflis-Central/issues/3
+https://github.com/Floflis/Floflis-Central/issues/13
+https://github.com/Floflis/Floflis-Central/issues/11
+https://github.com/Floflis/Floflis-Central/issues/9
+https://github.com/Floflis/Floflis-Central/issues/10
