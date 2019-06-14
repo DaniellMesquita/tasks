@@ -43,8 +43,6 @@ npm run compile && electron-builder --linux
 
 openbazaar
 
-https://billymeinke.wordpress.com/2012/01/17/really-fun-and-free-educational-software-tux4kids/
-
 voxel 3d
 
 onlyoffice?

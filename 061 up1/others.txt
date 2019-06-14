@@ -38,9 +38,3 @@ http://www.akitaonrails.com/2017/01/17/optimizing-linux-for-slow-computers
 https://www.addictivetips.com/ubuntu-linux-tips/speed-up-the-cinnamon-desktop/
 
 https://www.google.com/search?q=linux+only+specific+program+access+folder&oq=linux+only+specific+program+access+folder&aqs=chrome..69i57.7670j0j7&sourceid=chrome&ie=UTF-8
-
-https://github.com/Floflis/Floflis-Central/issues/3
-https://github.com/Floflis/Floflis-Central/issues/13
-https://github.com/Floflis/Floflis-Central/issues/11
-https://github.com/Floflis/Floflis-Central/issues/9
-https://github.com/Floflis/Floflis-Central/issues/10

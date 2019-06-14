@@ -13,6 +13,8 @@ http://www.glibre.org/sample-page/
 
 
 
+gCal (lsngls)
+
 gPr
 - DM
 - 
@@ -20,8 +22,9 @@ gPr
 - 
 - 
 
-gCal
 gVen
+
+lndn
 
 https://forum.duniter.org/t/g1-paired-on-ethereum-with-value-and-tradeable-with-bitcoin-and-other-cryptocurrencies/6029/31
 https://forum.duniter.org/t/dependance-aux-dns-utilisation-de-namecoin/5794
