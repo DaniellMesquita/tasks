@@ -6,7 +6,7 @@
 /media/floflis/Windows 7/Users/Notebook Positivo/Desktop/Git/061
 /media/floflis/Windows 7/Users/Notebook Positivo/Desktop/FlCn/tasks
 
-https://github.com/sindresorhus/fullname/ https://unix.stackexchange.com/questions/149665/change-user-info-on-the-command-line
+https://unix.stackexchange.com/questions/149665/change-user-info-on-the-command-line
 
 anbox
 
@@ -15,33 +15,25 @@ https://git.duniter.org/websites/website_en
 tts
 stt
 
-cd /1/Apps/qrl-wallet
-npm install
-npm run dev
-npm run test
-npm run electron
-https://github.com/jackalyst/qrl-docker/blob/master/Dockerfile ?
-
-
-cd /1/Apps/aragonOS
-npm install
-npm test
-npm run lint
-
-
 cd /1/AppsOld/electrum-nmc
 python3 -m pip install .[fast]
 
 apt-get update
 apt-get install i2p i2p-keyring
 
-gdevelop icon
-
 install electron-builder
 cd /1/Apps/noty
 npm run compile && electron-builder --linux
 
-openbazaar
+/1/AppsOld/openbazaar-go
+
+https://github.com/OpenBazaar/openbazaar-go/blob/master/docs/install-linux.md
+
+cd /1/Apps/openbazaar-desktop
+npm install
+
+cd /1/Apps/aragon
+sudo npm install
 
 voxel 3d
 
