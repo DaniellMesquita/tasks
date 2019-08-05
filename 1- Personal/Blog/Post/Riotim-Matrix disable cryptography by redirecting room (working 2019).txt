@@ -1,0 +1,17 @@
+!pQhDfsljSUQxaPNpur:matrix.org
+
+m.room.tombstone
+
+{
+  "body": "This room...",
+  "replacement_room": "!p..."
+}
+
+
+
+
+
+{
+  "body": "To disable cryptography and making it public, this room has been redirected.",
+  "replacement_room": "!pQhDfsljSUQxaPNpur:matrix.org"
+}

@@ -1,5 +1,0 @@
-http://web.archive.org/web/20190506163247/https://computingforgeeks.com/how-to-install-and-configure-cacti-on-ubuntu-18-04/
-
-Suggestion: start on https://twitter.com/MyPaintApp and complete on Krita
-
-central: https://vitux.com/how-to-get-boot-time-and-uptime-on-ubuntu/

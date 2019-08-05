@@ -1,3 +1,0 @@
-http://web.archive.org/web/20190122230142/https://linuxconfig.org/improve-your-wine-gaming-on-linux-with-dxvk
-
-https://github.com/doitsujin/dxvk

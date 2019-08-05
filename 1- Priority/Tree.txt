@@ -1,0 +1,27 @@
+1
+ | apps
+ | dapps
+ | programs
+ | games
+ | config
+ | personal
+   | profile
+     | drafts
+   | data
+     | tasks
+       | drafts
+     | issues
+       | drafts
+     | orgs (symlink)
+   | site
+   | blog
+   | projects
+     | orgs (symlink)
+   | tk
+ | orgs
+   | same-org
+     | subs
+       | sub-org (git/dat/swarm/ipfs/torrent)
+       | drafts
+   | drafts
+ | libraries

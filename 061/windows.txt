@@ -1,5 +1,0 @@
-watermark
-
-turn dtube_key.txt into a dmd file (read pub/priv json)
-
-/1/Floflis/Resources/sound/Notification.ogg
