@@ -1,0 +1,43 @@
+{planet-id}.{country-code}.{province-abbr}.{region-first-letter}
+example: 1.55.pr.s
+
+https://forum.duniter.org/t/starting-a-new-testing-currency/65/3
+
+http://web.archive.org/web/20190419021612/https://duniter.org/en/introduction/
+http://web.archive.org/web/20190419015555/https://duniter.org/en/theoretical/
+http://web.archive.org/web/20190419020545/https://duniter.org/en/duniter-why-how/
+http://web.archive.org/web/20190419021820/https://duniter.org/en/get-g1/
+https://github.com/duniter/G1/tree/master/logo/G1%20acceptee/svg
+https://github.com/duniter/G1/tree/master/logo/G1-flare/svg
+http://web.archive.org/web/20190419172946/https://forum.duniter.org/t/is-this-possible-to-know-the-value-of-duniter-basic-income-per-month/1538
+http://web.archive.org/web/20190419172731/https://forum.duniter.org/t/etrillum-restaurant-en-monnaie-libre-g1/2145
+https://hackmd.lescommuns.org/OwUwnAHAbADBDMBaAxsmJEBYAmvECMBDZCRAM22ACYQBGQqCAVjFqA==?view
+http://www.glibre.org/sample-page/
+
+
+
+gCal (lsngls)
+
+gPr
+- DM
+- 
+- 
+- 
+- 
+
+gVen
+
+lndn
+
+https://forum.duniter.org/t/g1-paired-on-ethereum-with-value-and-tradeable-with-bitcoin-and-other-cryptocurrencies/6029/31
+https://forum.duniter.org/t/dependance-aux-dns-utilisation-de-namecoin/5794
+https://forum.duniter.org/t/qui-a-mis-cesium-sur-une-site-ipfs/6070
+https://forum.duniter.org/u/cgeek
+https://github.com/duniter/cesium
+https://forum.duniter.org/t/duniter-on-mesh-networks/6032
+https://forum.duniter.org/t/subscribing-to-meta-brouzouf-testing-currency/199
+https://forum.duniter.org/t/tutorial-subscribe-to-the-testing-currency/143/7
+https://github.com/duniter/silkaj
+
+https://www.google.com/search?q=Austin+tx&oq=Austin+tx&aqs=chrome..69i57j0l5.4655j0j7&sourceid=chrome&ie=UTF-8 (beaker)
+https://www.google.com/search?q=massachusetz&oq=massachusetz&aqs=chrome..69i57j69i60l2j69i65l3.3094j0j7&sourceid=chrome&ie=UTF-8
