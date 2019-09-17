@@ -4,6 +4,7 @@
  | programs
  | games
  | config
+ | fonts
  | personal
    | profile
      | drafts
@@ -26,3 +27,4 @@
    | drafts
  | libraries
    | replic
+ | src
