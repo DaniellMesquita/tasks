@@ -1,0 +1,5 @@
+mx
+
+https://pagseguro.uol.com.br/summary/report/find.jhtml?page=1&pageCmd=&paymentMethodFilter=&fullReportLinkEnabled=false&summary=BY_DATE&detailFilter=BY_CARD_BRAND&detailFilterValueByCardBrand=&salesInfo=1&dateFrom=20%2F09%2F2019&timeFrom=00%3A00&dateTo=20%2F09%2F2019&timeTo=23%3A59&searchForFilter=BY_CARD_NUMBER
+
+https://pagseguro.uol.com.br/statement/period.jhtml

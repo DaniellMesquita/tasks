@@ -1,0 +1,11 @@
+312.66
+295,14
+
+1) Start the trade
+2) Send me an email asking me to sell you the ETH. This email MUST be the same as the Paypal email that will send the payment
+3) I will reply to your email to confirm and I will fund the escrow at this point
+4) Send the payment via Paypal as a friend or family. Use the same paypal address as in step 2. My paypal address is the same as my email address
+5) After you have received the ETH, reply to the previous email and say that you have received the ETH and that you are satisfied with the trade
+6) Then I will send you an email with the copy/paste log from LocalEthereum
+
+PS: Step 5 is vital to this procedure. If you dont send me that email then I will not trade with you again and I will report you to Paypal AND LocalEthereum
