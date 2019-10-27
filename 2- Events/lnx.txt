@@ -1,3 +1,9 @@
+cd /media/floflis/Windows\ 7/Users/Notebook\ Positivo/Desktop/Plasmmer/orgs/Floflis/Apps/IC/nxt/3/1. Muon/Muon
+
+/media/floflis/Windows\ 7/Users/Notebook\ Positivo/Desktop/FrameworkJS/ignore/1.\ bootstrap material/bootstrap-material-design
+
+/media/floflis/Windows\ 7/Users/Notebook\ Positivo/AppData/Local/Discord/app-0.0.305/resources
+https://github.com/simon-paris/gba.ninja
 C:\Users\Notebook Positivo\Downloads\New\git\dat-installer
 C:\Users\Notebook Positivo\Desktop\Plasmmer\orgs\Floflis\2. HumaneOS\Programs
 ar CLI
@@ -23,22 +29,17 @@ C:\Users\Notebook Positivo\Desktop\FrameworkJS\ignore\material
 
 /media/floflis/Windows 7/Users/Notebook Positivo/Desktop/HumaneBook/Peepeth
 
+https://medium.com/@dineshuthakota/how-to-generate-android-apk-without-android-studio-using-ionic-b3a2ae0edc86
+https://www.andreszsogon.com/using-android-8-and-9-emulators-without-android-studio/
+
 https://download.docker.com/linux/ubuntu/dists/disco/pool/stable/amd64/
 https://docs.docker.com/compose/install/
 
 ln -s /1/Floflis/libs/node_modules node_modules
 
-imgbrn alt for lnx
-
-https://medium.com/@dineshuthakota/how-to-generate-android-apk-without-android-studio-using-ionic-b3a2ae0edc86
-https://www.andreszsogon.com/using-android-8-and-9-emulators-without-android-studio/
-
 ppth m pst
 J:\scans\recibos
 sv fb J:\.a
-
-tree folder
-note: lnx differs between low and upper case. User folders need to be low, while Floflis is upper.
 
 /media/floflis/Windows 7/Users/Notebook Positivo/Desktop/FrameworkJS/Steps/mkdocs-material
 fmwk docs r2
@@ -51,14 +52,6 @@ fmwk mithril
 
 frame: octicons-react use @primer instead of @githubprimer
 
-https://github.com/simon-paris/gba.ninja
-
-cd /media/floflis/Windows\ 7/Users/Notebook\ Positivo/Desktop/Plasmmer/orgs/Floflis/Apps/IC/nxt/3/1. Muon/Muon
-
-/media/floflis/Windows\ 7/Users/Notebook\ Positivo/Desktop/FrameworkJS/ignore/1.\ bootstrap material/bootstrap-material-design
-
-/media/floflis/Windows\ 7/Users/Notebook\ Positivo/AppData/Local/Discord/app-0.0.305/resources
-
 gchange and other sources
 
 /usr/local/lib/node_modules
@@ -66,7 +59,6 @@ gchange and other sources
 ns: sts, pst, ppthtb
 
 C:\Users\Notebook Positivo\Desktop\Plasmmer\PJ\Floflis\1. HTML5Apps Platform\PJ\NodeJS
-/media/floflis/Windows 7/Users/Notebook Positivo/Desktop/HumaneBook/Peepeth
 
 .tar.xz compress
 
