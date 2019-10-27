@@ -1,6 +1,8 @@
-ubr
-
-
+C:\Users\Notebook Positivo\Desktop\orgs\Open Planet Initiative\PJ\Libre Economy
+C:\Users\Notebook Positivo\Desktop\orgs\Open Planet Initiative\PJ\Libre Economy\PJ\DFC
+C:\Users\Notebook Positivo\Desktop\orgs\Open Planet Initiative\PJ\Libre Economy\PJ\DFC\PJ\TeenCoin
+C:\Users\Notebook Positivo\Desktop\orgs\Open Planet Initiative\PJ\Libre Economy\PJ\DFC\PJ\Open Food
+C:\Users\Notebook Positivo\Desktop\orgs\Open Planet Initiative\PJ\Libre Economy\PJ\DFC\PJ\exchange\site
 
 teencoin + https://ipfs.io/ipfs/QmfSAjt5JaNRoLxB2cqyc1LjxxnQJedj1hDknSjxawuFsk/ + opfd + C:\Users\Notebook Positivo\Desktop\orgs\Open Planet Initiative\PJ\Libre Economy\PJ\Duniter Spec > lbr eco
 

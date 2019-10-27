@@ -1,34 +1,55 @@
-C:\Users\Notebook Positivo\Desktop\FrameworkJS\ignore\1. bootstrap material\bootstrap-material-design
+muon > L:\lnx\Purroar
 
-https://github.com/beakerbrowser/beaker/tree/blue-hyperdrive10
+https://download.docker.com/linux/ubuntu/dists/disco/pool/stable/amd64/
+https://docs.docker.com/compose/install/
 
-https://howtonode.org/how-to-install-nodejs
-frame
-aragon
-keeweb
+ln -s /1/Floflis/libs/node_modules node_modules
 
-gchange and other sources
+imgbrn alt for lnx
 
 https://medium.com/@dineshuthakota/how-to-generate-android-apk-without-android-studio-using-ionic-b3a2ae0edc86
 https://www.andreszsogon.com/using-android-8-and-9-emulators-without-android-studio/
 
-C:\Users\Notebook Positivo\Desktop\Plasmmer\orgs\Floflis\Apps\IC\nxt\3\2. frame
+ppth m pst
+J:\scans\recibos
+sv fb J:\.a
 
-https://github.com/beakerbrowser/beaker/tree/blue-hyperdrive10
+tree folder
+note: lnx differs between low and upper case. User folders need to be low, while Floflis is upper.
+
+/media/floflis/Windows 7/Users/Notebook Positivo/Desktop/FrameworkJS/Steps/mkdocs-material
+fmwk docs r2
+FMWK C2
+/media/floflis/Windows 7/Users/Notebook Positivo/Desktop/orgs/Open Planet Initiative/PJ/Libre Economy/PJ/DFC
+
+merge flex into FMWK
+new fmwk paper design
+fmwk mithril
+
+frame: octicons-react use @primer instead of @githubprimer
+
+/media/floflis/Windows 7/Users/Notebook Positivo/Desktop/HumaneBook/Peepeth
+
+https://github.com/simon-paris/gba.ninja
+
+cd /media/floflis/Windows\ 7/Users/Notebook\ Positivo/Desktop/Plasmmer/orgs/Floflis/Apps/IC/nxt/3/1. Muon/Muon
+
+/media/floflis/Windows\ 7/Users/Notebook\ Positivo/Desktop/FrameworkJS/ignore/1.\ bootstrap material/bootstrap-material-design
+
+/media/floflis/Windows\ 7/Users/Notebook\ Positivo/AppData/Local/Discord/app-0.0.305/resources
+
+gchange and other sources
+
+/usr/local/lib/node_modules
 
 ns: sts, pst, ppthtb
 
 C:\Users\Notebook Positivo\Desktop\Plasmmer\PJ\Floflis\1. HTML5Apps Platform\PJ\NodeJS
-C:\Users\Notebook Positivo\Desktop\HumaneBook\Peepeth
+/media/floflis/Windows 7/Users/Notebook Positivo/Desktop/HumaneBook/Peepeth
 
 .tar.xz compress
 
 C:\Downloaded Web Sites\gateway.pinata.cloud\ipfs\pndnt
-
-ppth m pst
-J:\scans\recibos
-sv fb
-J:\.a
 
 
 

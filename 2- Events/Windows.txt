@@ -1,3 +1,5 @@
+https://howtonode.org/how-to-install-nodejs
+
 /media/floflis/6020156920154784/lnx
 
 https://github.com/FileNation/FileNation
