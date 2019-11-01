@@ -1,36 +1,46 @@
-cd /media/floflis/Windows\ 7/Users/Notebook\ Positivo/Desktop/Plasmmer/orgs/Floflis/Apps/IC/nxt/3/1. Muon/Muon
+cd /media/floflis/Windows\ 7/Users/Notebook\ Positivo/Desktop/HumaneBook/Peepeth/1.\ peepin && npm audit fix
+/media/floflis/Windows 7/Users/Notebook Positivo/Desktop/HumaneBook/Peepeth/3. peepfeed
+/media/floflis/Windows 7/Users/Notebook Positivo/Desktop/HumaneBook/Peepeth/4. peepeth-subgraph
+
+crdv
+
+/media/floflis/Windows 7/Users/Notebook Positivo/Downloads/New/Lnx
+
+
+
+
+
+
+
+
+
+
+
+sudo add-apt-repository ppa:ubuntu-x-swat/x-updates
+sudo apt-get update
+sudo apt-get install fglrx
+
+http://[21f:dd73:7cdb:773b:a924:7ec0:800b:221e]/
+
+zn, y tracker
+
+C:\Users\Notebook Positivo\Desktop\Plasmmer\orgs\Floflis\Apps\IC\1\1. other apps\9. iframe to WEBVIEW
 
 /media/floflis/Windows\ 7/Users/Notebook\ Positivo/Desktop/FrameworkJS/ignore/1.\ bootstrap material/bootstrap-material-design
 
 /media/floflis/Windows\ 7/Users/Notebook\ Positivo/AppData/Local/Discord/app-0.0.305/resources
-https://github.com/simon-paris/gba.ninja
-C:\Users\Notebook Positivo\Downloads\New\git\dat-installer
-C:\Users\Notebook Positivo\Desktop\Plasmmer\orgs\Floflis\2. HumaneOS\Programs
-ar CLI
-L:\lnx\riscv
-L:\lnx\electrum-nmc
-L:\lnx
-C:\Users\Notebook Positivo\Downloads\New\Lnx
-zn
-crdv
-C:\Users\Notebook Positivo\Desktop\lh\soft\SSB
-C:\Users\Notebook Positivo\Desktop\lh\soft\i\Muon
-C:\Users\Notebook Positivo\Desktop\Plasmmer\orgs\Floflis\Apps\IC\1\1. other apps\3. Frame\app\Linux test
-sudo npm install --global react-native-cli (manyverse)
 
-sudo apt-get install python3-pyqt5 && sudo apt-get install python3-setuptools (electrum_nmc)
 
-http://[21f:dd73:7cdb:773b:a924:7ec0:800b:221e]/
+
+
+
+C:\Users\Notebook Positivo\Desktop\lh
 
 cd /1/Apps && git clone https://github.com/amitmerchant1990/electron-markdownify && cd electron-markdownify && npm install
-C:\Users\Notebook Positivo\Desktop\lh
-C:\Users\Notebook Positivo\Desktop\Plasmmer\orgs\Floflis\Apps\IC\1\2. other apps\shell
+
 C:\Users\Notebook Positivo\Desktop\FrameworkJS\ignore\material
 
-/media/floflis/Windows 7/Users/Notebook Positivo/Desktop/HumaneBook/Peepeth
-
-https://medium.com/@dineshuthakota/how-to-generate-android-apk-without-android-studio-using-ionic-b3a2ae0edc86
-https://www.andreszsogon.com/using-android-8-and-9-emulators-without-android-studio/
+https://github.com/simon-paris/gba.ninja
 
 https://download.docker.com/linux/ubuntu/dists/disco/pool/stable/amd64/
 https://docs.docker.com/compose/install/
